@@ -1,6 +1,19 @@
 # Pharmacy-Drug-Mangement
 
 Welcome to the Online Medicine Shop project! This web application is designed to facilitate the online purchase and restocking of medicines. Built using JSP, MySQL, and other Java technologies, it provides a comprehensive solution for vendors and customers.
+## Screen Shots
+![VendorHomepage](https://github.com/BotJavadoc/Pharmacy-Drug-Management/assets/78670888/98823596-ed92-4ebc-9dec-5b6f8104479d)
+![SellerRegister](https://github.com/BotJavadoc/Pharmacy-Drug-Management/assets/78670888/e23a28c5-cf7e-4ff3-85ab-a7b1827a4064)
+![Restock](https://github.com/BotJavadoc/Pharmacy-Drug-Management/assets/78670888/d8f29f45-506a-4571-97ba-64929dd8fa67)
+![Login](https://github.com/BotJavadoc/Pharmacy-Drug-Management/assets/78670888/f8cd507a-78ad-4009-a4cb-5885c520fa98)
+![Index](https://github.com/BotJavadoc/Pharmacy-Drug-Management/assets/78670888/7baaf69d-4b30-4f5d-871c-a14106a0532f)
+![CustomerHomepage](https://github.com/BotJavadoc/Pharmacy-Drug-Management/assets/78670888/47b09401-aec4-438d-9d38-029f17ebfda0)
+![Buy 2](https://github.com/BotJavadoc/Pharmacy-Drug-Management/assets/78670888/1b7ed277-bd1c-47a7-9c86-0da0abaff74e)
+![Buy 1](https://github.com/BotJavadoc/Pharmacy-Drug-Management/assets/78670888/f724046b-f9f9-434f-8f5e-218c929a0135)
+
+
+
+
 
 ## Table of Contents
 
